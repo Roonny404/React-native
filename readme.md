@@ -6,7 +6,7 @@ Aplikasi ini mempunyai fitur CRUD (Create Read Update Delete). Aplikasi ini meng
 # FLOWCHART
 ![LSP Pert4](https://user-images.githubusercontent.com/88386517/177025533-d38444e7-21bd-4c8b-89e6-22b66691e4e1.jpg)
 
-# Untuk tampilan Aplikasi lebih lengkap bisa di lihat di file .png atas(:
+# Untuk tampilan Aplikasi lebih lengkap bisa di lihat di file.png diatas(:
 ## Tampilan Halaman Tambah
 ![Halaman Awal](https://user-images.githubusercontent.com/88386517/177025643-248509c6-3280-4c4e-8cdc-c6be649915bd.png)
 
