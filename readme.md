@@ -9,6 +9,4 @@ Aplikasi ini mempunyai fitur CRUD (Create Read Update Delete). Aplikasi ini meng
 # Tampilan Aplikasi
 ## Tampilan Halaman Tambah
 ![Halaman Awal](https://user-images.githubusercontent.com/88386517/177025643-248509c6-3280-4c4e-8cdc-c6be649915bd.png)
-## Tampilan Halaman Edit
-![Tampilan Halaman Edit](https://user-images.githubusercontent.com/88386517/177025648-01839cbd-09b1-4e3c-9c27-a4f3538419cc.png)
 
